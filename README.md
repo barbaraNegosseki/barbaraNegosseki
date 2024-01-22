@@ -1,4 +1,4 @@
-### Hello! Welcome to my github profile 👋✨
+### Olá! Bem-vind@ ao meu perfil do github! 👋✨
 
 Meu nome é Barbara, eu sou uma desenvolvedora front-end e no momento estou focada em melhorar minhas habilidades técnicas! 
 
