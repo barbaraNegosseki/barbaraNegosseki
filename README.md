@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! Welcome to my github profile 👋✨
 
-<!--
-**barbaraNegosseki/barbaraNegosseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Barbara, eu sou uma desenvolvedora front-end e no momento estou focada em melhorar minhas habilidades técnicas! 
 
-Here are some ideas to get you started:
+Eu estou atualmente trabalhando no itaú como front-end desde março/2021 onde utilizei principalmente o Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas
+
+<i class="devicon-angularjs-plain"></i>
+
+
+<div>
+<a href="https://github.com/barbaraNegosseki">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraNegosseki&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaraNegosseki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
